@@ -29,6 +29,15 @@ while True:
         break
 print(count)
 
+count = 0
+while count < 5:
+    print("Count:", count)
+    count += 1
+else:
+    print("finished!")
+
+
+
 items = ["PC", "TV", "エアコン"]
 for item in items:
     print(item)

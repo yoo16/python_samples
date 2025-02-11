@@ -1,2 +1,5 @@
 .DS_Store
 opencv/train_data/*
+**/negatives/*.jpg
+**/positives/*.jpg
+**/test/*.jpg
